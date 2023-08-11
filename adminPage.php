@@ -32,7 +32,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="manageRooms.php">
                             <span class="icon"><i class="fa-duotone fa-bed-front"></i></span>
                             <span class="item">Rooms</span>
                         </a>
